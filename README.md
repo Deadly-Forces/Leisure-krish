@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me
 - E-mail- krishkaslikar@yahoo.com
-- Instagram-iminvisible.nk
+  
 
 <!---
 Leisure-krish/Leisure-krish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
