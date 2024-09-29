@@ -1,3 +1,4 @@
+<div style="background-image: url('https://wallpaperaccess.com/full/1442024.jpg'); background-size: cover; padding: 20px; border-radius: 10px;">
 <h1 align="center">Hi 👋, I'm Nikunj Kaslikar</h1>
 <h3 align="center">Highly interested in cybersecurity and passionate hacker</h3>
 
@@ -41,7 +42,7 @@ How to reach me **krishkaslikar@yahoo.com**
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leisure-krish&" alt="leisure-krish" />
 </p>
-  
+</div>
 
 <!---
 Leisure-krish/Leisure-krish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
