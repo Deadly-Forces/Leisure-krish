@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leisure-krish" alt="leisure-krish" /></a> </p>
 
-- 🌱 I’m currently learning **Java Script/ Adv Python**
+I’m currently learning **Java Script/ Adv Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Leisure-krish](https://github.com/Leisure-krish)
+All of my projects are available at [https://github.com/Leisure-krish](https://github.com/Leisure-krish)
 
-- 💬 Ask me about **Highly Interested in knowing everything about Hacking and then testing it on my own.**
+Ask me about **Highly Interested in knowing everything about Hacking and then testing it on my own.**
 
-- 📫 How to reach me **krishkaslikar@yahoo.com**
+How to reach me **krishkaslikar@yahoo.com**
 
 <h3 align="left">How to connect</h3>
 <p align="left">
