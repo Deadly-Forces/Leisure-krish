@@ -8,7 +8,7 @@
 I’m currently learning JavaScript / Advance Python.
 </p>
 <p align="left">
-All of my projects are available at (https://github.com/Leisure-krish).
+All of my projects are available at (https://github.com/Deadly-Forces).
 </p>
 <p align="left">
 How to reach me: [krishkaslikar@yahoo.com]
