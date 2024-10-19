@@ -41,10 +41,10 @@ How to reach me: [krishkaslikar@yahoo.com]
 </a> 
 </p>
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leisure-krish&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deadly-Forces&show_icons=true&locale=en&layout=compact" alt="Top languages" />
 </p>
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leisure-krish" alt="Streak stats" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deadly-Forces" alt="Streak stats" />
 </p>
 
 <!---
