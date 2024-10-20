@@ -1,6 +1,6 @@
 <br/>  
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Leisure-krish&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Deadly-Forces&&style=flat-square" align="center" />
 </div>  
 <h1 align="center">Hi 👋, I'm Nikunj Kaslikar</h1>
 <h3 align="center">Highly interested in cybersecurity and passionate hacker</h3>
@@ -51,8 +51,9 @@ You can **fork** and **contribute** to any of the projects <img src="https://raw
 
 [![Nikunj's current streak](https://streak-stats.demolab.com/?user=Deadly-Forces&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Color Changing Capsule" />
 </p>
+ 
 
 <!---
 Leisure-krish/Leisure-krish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
