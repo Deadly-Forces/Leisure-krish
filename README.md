@@ -43,7 +43,7 @@ You can **fork** and **contribute** to any of the projects <img src="https://raw
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
 </p>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+<b>Github Stats</b>
 
 [![Nikunj's github stats](https://bad-apple-github-readme.vercel.app/api?username=deadly-Forces&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 
