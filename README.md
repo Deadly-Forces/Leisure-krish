@@ -11,7 +11,7 @@ I’m currently learning JavaScript / Advance Python.
 All of my projects are available at (https://github.com/Deadly-Forces).
 </p>
 <p align="left">
-How to reach me: [krishkaslikar@yahoo.com]
+How to reach me: <a href="mailto:krishkaslikar@yahoo.com">krishkaslikar@yahoo.com</a>
 </p>
 <p aling="left">
 You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center"
