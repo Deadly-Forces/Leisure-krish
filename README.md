@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=Deadly-Forces&&style=flat-square" align="center" />
 </div>  
 <h1 align="center">Hi 👋, I'm Nikunj Kaslikar</h1>
-<h3 align="center">Highly interested in cybersecurity and passionate hacker</h3>
+<h3 align="center">Self Paced Programmer and passionate hacker</h3>
 <p align="left">
 I’m currently learning JavaScript / Advance Python.
 </p>
