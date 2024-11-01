@@ -4,8 +4,6 @@ I’m currently learning JavaScript / Advance Python.<br><br>All of my projects 
 You can *fork* and *contribute* to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center"
 </p>
 
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nikunj_kaslikar06/profilecard/?igsh=NmQzdjB1aGFoajM0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikunj-kaslikar-89b51928a) 
 
