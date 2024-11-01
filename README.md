@@ -14,9 +14,6 @@ You can *fork* and *contribute* to any of the projects <img src="https://raw.git
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Deadly-Forces&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deadly-Forces&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Deadly-Forces&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
