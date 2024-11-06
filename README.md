@@ -46,7 +46,6 @@
     <p>Visitor count: <a href="https://visitcount.itsvg.in" target="_blank"><img src="https://visitcount.itsvg.in/api?id=Deadly-Forces&icon=0&color=0" alt="Visitor Count"></a></p>
   </footer>
 </body>
-</html>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
