@@ -1,6 +1,8 @@
 <body>
   <header style="background-color: #222; color: #fff; padding: 20px;">
-    <h1>💫 About Me:Self-Paced Programmer and Passionate Hacker</h1>
+    <h1>💫About Me: 
+      Self-Paced Programmer and Passionate Hacker
+    </h1>
     <p>I’m currently learning JavaScript / Advanced Python.<br><br>All of my projects are available at <a href="https://github.com/Deadly-Forces" target="_blank">GitHub</a>.<br><br>How to reach me: <a href="mailto:krishkaslikar@yahoo.com">krishkaslikar@yahoo.com</a></p>
     <p align="left">
       You can <em>fork</em> and <em>contribute</em> to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center"/>
