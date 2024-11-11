@@ -1,12 +1,13 @@
 <div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Deadly-Forces/Deadly-Forces/header.png"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Nikunj+Kaslikar;He/Him;Computer+Engineering+Student;I+am+ANONYMOUS;" alt="Computer Engineering Student, Indian Passionate Hacker,"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Nikunj+Kaslikar;He/Him;Computer+Engineering+Student;I+am+ANONYMOUS;" alt="Computer Engineering Student, I am ANONYMOUS,"></a>
 </div>
 
 <table align="right">
- <tr><td><a href="https://github.com/Deadly-Foeces/Deadly-Forces/blob/main/README.md"><img src="https://github.com/Deadly-Forces/Deadly-Forces/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
+ <table align="right">
+ <td><a href="https://github.com/Carol42/Carol42/blob/main/README.md"><img src="https://github.com/Carol42/Carol42/blob/main/assets/us_flag.png" alt="US flag" width="17px"> English Lang</a></td>
 </table>
 
 <body>
