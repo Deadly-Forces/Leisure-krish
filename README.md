@@ -64,25 +64,19 @@
 </section>
 
 <h2>My GitHub Activity</h2>
-<h3>My GitHub Stats</h3>
-    <div>
-        <a href="https://github.com/Deadly-Forces">
-            <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Deadly-Forces?style=for-the-badge&labelColor=7E3ACE&color=181717">
-        </a>
-        <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/Deadly-Forces?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/Deadly-Forces?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/Deadly-Forces?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> 
-    </div>
-    </br>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats.vercel.app/api?username=Deadly-Forces&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
-    </a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img height=180em src="https://streak-stats.demolab.com/?user=Deadly-Forces&theme=midnight-purple&hide_border=true" alt="streak stats"/>
-    </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=Deadly-Forces&theme=darkhub&no-frame=true&column=10">
-    </a>
+ </section>
+  <section style="padding: 20px;">
+    <h2>📊 GitHub Stats:</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=Deadly-Forces&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deadly-Forces&theme=midnight-purple&hide_border=false" alt="GitHub Streak"><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deadly-Forces&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+  </section>
+  <section style="padding: 20px;">
+    <h2>🔝 Top Contributed Repo</h2>
+    <img src="https://github-contributor-stats.vercel.app/api?username=Deadly-Forces&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true" alt="Top Repositories">
+  </section>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  
 
