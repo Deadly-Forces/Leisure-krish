@@ -15,21 +15,13 @@
     <h1>💫About Me: 
       Self-Paced Programmer and Passionate Hacker
     </h1>
-    <p>I’m currently learning JavaScript / Advanced Python.<br><br>All of my projects are available at <a href="https://github.com/Deadly-Forces" target="_blank">GitHub</a>.<br><br>How to reach me: <a href="mailto:krishkaslikar@yahoo.com">krishkaslikar@yahoo.com</a></p>
+    <p>I’m currently learning JavaScript / Advanced Python.<br><br>All of my projects are available at <a href="https://github.com/Deadly-Forces" target="_blank">GitHub</a>
+        <br>How to reach me: <a href="mailto:krishkaslikar@yahoo.com">krishkaslikar@yahoo.com</a></p>
     <p align="left">
       You can <em>fork</em> and <em>contribute</em> to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center"/>
     </p>
   </header>
-
-<h2>Project info</h2>
-<div>
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Deadly-Forces/Deadly-Forces?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/Deadly-Forces/Deadly-Forces?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Deadly-Forces/Deadly-Forces?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="Last commit" src="https://img.shields.io/github/last-commit/Deadly-Forces/Deadly-Forces??color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-</div>
-
-
+    
 <h2>How to reach me</h2>
   <section class="socials" style="padding: 20px;">
     <a href="https://www.instagram.com/nikunj_kaslikar06/profilecard/?igsh=NmQzdjB1aGFoajM0">
