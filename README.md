@@ -1,5 +1,5 @@
 <div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+<div align="center" ><img width="100%" alt="Welcome to my Profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Nikunj+Kaslikar;He/Him;Computer+Engineering+Student;I+am+ANONYMOUS;" alt="Computer Engineering Student, I am ANONYMOUS,"></a>
@@ -16,7 +16,6 @@
       Self-Paced Programmer and Passionate Hacker
     </h1>
     <p>I’m currently learning JavaScript / Advanced Python.<br><br>All of my projects are available at <a href="https://github.com/Deadly-Forces" target="_blank">GitHub</a>
-        <br>How to reach me: <a href="mailto:krishkaslikar@yahoo.com">krishkaslikar@yahoo.com</a></p>
     <p align="left">
       You can <em>fork</em> and <em>contribute</em> to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center"/>
     </p>
@@ -30,7 +29,7 @@
     <a href="https://linkedin.com/in/nikunj-kaslikar-89b51928a">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" class="badge">
     </a>
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </br>
 <h2>💻Tech Stack:</h2>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" class="badge">
