@@ -82,7 +82,6 @@
     <img src="https://user-images.githubusercontent.com/74038190/240885342-71aabea4-e376-4fff-8438-778edf55db0a.gif" width="400" alt="matrix"/>
 </div>
 
-<!-- Neon Pulse Line -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 </div>
