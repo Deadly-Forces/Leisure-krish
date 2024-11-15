@@ -54,19 +54,39 @@
     <h2>✍️ Random Dev Quote</h2>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
 </section>
-
-<h2>My GitHub Activity</h2>
+    <h2>📊 GitHub Stats:</h2>
  </section>
   <section style="padding: 20px;">
-    <h2>📊 GitHub Stats:</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=Deadly-Forces&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deadly-Forces&theme=midnight-purple&hide_border=false" alt="GitHub Streak"><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deadly-Forces&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-  </section>
-  <section style="padding: 20px;">
-    <h2>🔝 Top Contributed Repo</h2>
-    <img src="https://github-contributor-stats.vercel.app/api?username=Deadly-Forces&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true" alt="Top Repositories">
-  </section>
+<div align="center">
+
+<a href="https://github.com/Deadly-Forces">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deadly-Forces&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9b59b6&icon_color=9b59b6&text_color=FFFFFF&ring_color=9b59b6&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deadly-Forces&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9b59b6&text_color=FFFFFF"/>
+</a>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Deadly-Forces&theme=midnight-purple&hide_border=true&background=0D1117&ring=9b59b6&fire=FF3D00&currStreakLabel=9b59b6&sideLabels=9b59b6&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+
+<div align="center">
+    <a href="https://github.com/Deadly-Forces">
+        <img src="https://img.shields.io/badge/Profile%20Views-loading...-9b59b6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRiI+PHBhdGggZD0iTTEyIDRjNC40MTggMCA4IDMuNTgyIDggOHMtMy41ODIgOC04IDgtOC0zLjU4Mi04LTggMy41ODItOCA4LTh6bTAtMkM2LjQ3NyAyIDIgNi40NzcgMiAxMnM0LjQ3NyAxMCAxMCAxMCAxMC00LjQ3NyAxMC0xMFMxNy41MjMgMiAxMiAyem0wIDE2Yy0zLjMxNCAwLTYtMi42ODYtNi02czIuNjg2LTYgNi02IDYgMi42ODYgNiA2LTIuNjg2IDYtNiA2eiIvPjwvc3ZnPg==" alt="views"/>
+    </a>
+    <div>
+        <img src="https://profile-counter.glitch.me/Deadly-Forces/count.svg" alt="Visitor Count" style="background: linear-gradient(to right, #000000, #0D1117); border-radius: 5px; padding: 5px; margin: 5px;"/>
+    </div>
+    <a href="https://github.com/Deadly-Forces">
+        <img src="https://komarev.com/ghpvc/?username=Deadly-Forces&style=for-the-badge&color=9b59b6&label=PROFILE+MATRIX+INITIALIZED" alt="Matrix Counter"/>
+    </a>
+</div>
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/240885342-71aabea4-e376-4fff-8438-778edf55db0a.gif" width="400" alt="matrix"/>
+</div>
+
+<!-- Neon Pulse Line -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+</div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
