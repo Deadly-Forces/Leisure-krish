@@ -47,12 +47,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3s6bc3r04vc3y1fqhg4mfrdz4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
-
-
-<section style="padding: 20px;">
-    <h2>✍️ Random Dev Quote</h2>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
-</section>
+<section>
     <h2>📊 GitHub Stats:</h2>
  </section>
   <section style="padding: 20px;">
