@@ -14,7 +14,7 @@
   <header style="background-color: #222; color: #fff; padding: 20px;">
     <h1>About Me: I'm The Deamon of your Own World 
     </h1>
-    <p>I’m currently learning JavaScript / Advanced Python.<br><br>All of my projects are available at <a href="https://github.com/Deadly-Forces" target="_blank">GitHub</a>
+    <p>I’m currently learning JavaScript / Advanced Python.
     <p align="left">
       You can <em>fork</em> and <em>contribute</em> to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center"/>
     </p>
