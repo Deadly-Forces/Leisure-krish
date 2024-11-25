@@ -12,8 +12,7 @@
 
 <body>
   <header style="background-color: #222; color: #fff; padding: 20px;">
-    <h1>💫About Me: 
-      Self-Paced Programmer and Passionate Hacker
+    <h1>About Me: I'm The Deamon of your Own World 
     </h1>
     <p>I’m currently learning JavaScript / Advanced Python.<br><br>All of my projects are available at <a href="https://github.com/Deadly-Forces" target="_blank">GitHub</a>
     <p align="left">
