@@ -1,8 +1,7 @@
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="Welcome to my Profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
-
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Nikunj+Kaslikar;He/Him;Computer+Engineering+Student;I+am+ANONYMOUS;" alt="Computer Engineering Student, I am ANONYMOUS,"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Computer+Engineering+Student" alt="Computer Engineering Student"></a>
 </div>
 <body>
   <header style="background-color: #222; color: #fff; padding: 20px;">
@@ -11,7 +10,6 @@
       You can <em>fork</em> and <em>contribute</em> to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center"/>
     </p>
   </header>
-    
 <h2>How to reach me</h2>
   <section class="socials" style="padding: 20px;">
     <a href="https://www.instagram.com/nikunj_kaslikar06/profilecard/?igsh=NmQzdjB1aGFoajM0">
@@ -34,10 +32,6 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" class="badge">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" class="badge">
 </h2>
-<h2>Currently on Radar:</h2>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3s6bc3r04vc3y1fqhg4mfrdz4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
 <section>
     <h2>📊 GitHub Stats:</h2>
  </section>
