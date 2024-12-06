@@ -4,17 +4,9 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Nikunj+Kaslikar;He/Him;Computer+Engineering+Student;I+am+ANONYMOUS;" alt="Computer Engineering Student, I am ANONYMOUS,"></a>
 </div>
-
-<table align="right">
- <table align="right">
- <td><a href="https://github.com/Carol42/Carol42/blob/main/README.md"><img src="https://github.com/Carol42/Carol42/blob/main/assets/us_flag.png" alt="US flag" width="17px"> English Lang</a></td>
-</table>
-
 <body>
   <header style="background-color: #222; color: #fff; padding: 20px;">
-    <h1>About Me: I'm The Deamon of your Own World 
-    </h1>
-    <p>I’m currently learning JavaScript / Advanced Python.
+    <p>I’m currently learning JavaScript / Advanced Python.</p>
     <p align="left">
       You can <em>fork</em> and <em>contribute</em> to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center"/>
     </p>
