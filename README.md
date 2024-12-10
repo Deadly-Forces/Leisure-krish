@@ -1,8 +1,7 @@
-<div id="top"></div>
-<div align="center" ><img width="100%" alt="Welcome to my Profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Computer+Engineering+Student" alt="Computer Engineering Student"></a>
-</div>
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Deadly-Forces&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox">
+</p>
+
 <body>
   <header style="background-color: #222; color: #fff; padding: 20px;">
     <p>I’m currently learning JavaScript / Advanced Python.</p>
@@ -18,7 +17,6 @@
     <a href="https://linkedin.com/in/nikunj-kaslikar">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" class="badge">
     </a>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </br>
 <h2>💻Tech Stack:</h2>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
