@@ -24,6 +24,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://cdn.devdojo.com/posts/images/June2019/executing-bash-script-on-multiple-remote-server.jpg?auto=compress&w=960&dpr=2" alt="Bash" height="50" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 20px" src="https://clipart-library.com/images/8iGoeRebT.png" alt="MySQL" height="50" /></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="MySQL" height="50" /></a>
 </h2>
 <section>
     <h2>📊 GitHub Stats:</h2>
